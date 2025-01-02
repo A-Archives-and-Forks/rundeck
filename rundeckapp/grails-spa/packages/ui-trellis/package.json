@@ -56,7 +56,7 @@
     "moment": "^2.30.1",
     "npm": "^10.2.2",
     "perfect-scrollbar": "^1.5.0",
-    "primevue": "^4.1.1",
+    "primevue": "^4.2.5",
     "uiv": "^2.0.6",
     "vue": "^3.4.25",
     "vue-cookies": "^1.8.3",
